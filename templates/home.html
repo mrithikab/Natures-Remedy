@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Nature's Remedy</title>
+  <style>
+    :root {
+      --background: #93C572;
+      --foreground: #0a0a0a;
+      --card-bg: #5B703D; /* Olive green */
+      --card-foreground: #0a0a0a;
+      --primary: #9edc9a; /* Granny Smith Apple */
+      --primary-foreground: #0a0a0a;
+      --secondary: #f3f3f3;
+      --secondary-foreground: #0a0a0a;
+    }
+
+    /* General Styles */
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background-color: var(--background);
+      color: var(--foreground);
+      overflow: hidden;
+    }
+
+    /* Fullscreen Background GIF */
+    .background-gif {
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      z-index: -2; /* Place behind everything else */
+      pointer-events: none; /* Make it non-interactive */
+    }
+
+    .container {
+      min-height: 100vh;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      position: relative;
+      z-index: 1;
+    }
+
+    .card {
+      background-color: var(--card-bg);
+      color: var(--card-foreground);
+      max-width: 500px;
+      width: 100%;
+      padding: 36px;
+      border-radius: 15px;
+      box-shadow: 0 6px 18px rgba(0, 0, 0, 0.2);
+      text-align: center;
+      z-index: 1;
+    }
+
+    h1 {
+      font-size: 28px;
+      font-weight: bold;
+      color: var(--primary-foreground);
+      margin-bottom: 24px;
+    }
+
+    p {
+      color: var(--secondary-foreground);
+      margin-bottom: 24px;
+      text-transform: uppercase;
+    }
+
+    .button-group {
+      display: grid;
+      grid-template-columns: repeat(2, 1fr);
+      gap: 20px;
+    }
+
+    /* Styling buttons as links */
+    a.button {
+      display: block;
+      padding: 16px;
+      border: none;
+      border-radius: 8px;
+      font-size: 18px;
+      cursor: pointer;
+      color: var(--primary-foreground);
+      background-color: var(--primary);
+      text-decoration: none;
+      text-align: center;
+      transition: background-color 0.3s, transform 0.3s;
+      position: relative;
+      overflow: hidden;
+    }
+
+    /* Hover effect */
+    a.button:hover {
+      background-color: #7ec473;
+      transform: scale(1.05);
+    }
+
+    /* Shine effect */
+    a.button::before {
+      content: "";
+      position: absolute;
+      top: -100%;
+      left: -100%;
+      width: 200%;
+      height: 200%;
+      background: rgba(255, 255, 255, 0.5);
+      transform: rotate(30deg);
+      transition: top 0.5s ease, left 0.5s ease;
+    }
+
+    a.button:hover::before {
+      top: 100%;
+      left: 100%;
+    }
+  </style>
+</head>
+<body>
+  <!-- Background Animation GIF -->
+  <img src="https://i.pinimg.com/originals/ff/b0/b1/ffb0b1affc5622efc7ad302d2981fe83.gif" 
+       alt="Background Animation" class="background-gif">
+
+  <div class="container">
+    <div class="card">
+      <h1>Nature's Remedy</h1>
+      <p>Choose a mode to get started</p>
+      <div class="button-group">
+        
+        <!-- Link to Plant Mode -->
+        <a href="{{ url_for('plant_mode') }}" class="button">Plant Mode</a>
+        <!-- Link to Problem Mode -->
+        <a href="{{ url_for('problemmode') }}" class="button">Problem Mode</a>
+      </div>
+    </div>
+  </div>
+</body>
+</html>

@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Image Not Found</title>
+    <style>
+        /* CSS Variables for color palette */
+        :root {
+            --primary: #9edc8a; /* Granny Smith Apple */
+            --primary-foreground: #0a0a0a;
+            --secondary: #f3f3f3;
+            --secondary-foreground: #0a0a0a;
+            --background-opacity: rgba(0, 0, 0, 0.6); /* Dark overlay background */
+        }
+
+        /* Basic reset for full viewport and centering */
+        body, html {
+            margin: 0;
+            padding: 0;
+            height: 100%;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            font-family: Arial, sans-serif;
+            background: #000;
+            overflow: hidden;
+        }
+
+        /* Background image with reduced opacity */
+        .background-image {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100vw;
+            height: 100vh;
+            background: url('https://i.pinimg.com/originals/4c/09/cf/4c09cf2ef8fa1591dbfa778dec122c71.gif') no-repeat center center fixed;
+            background-size: cover;
+            opacity: 0.3; /* Transparent image overlay */
+            z-index: 0;
+        }
+
+        /* Centered container with semi-transparent background */
+        .error-container {
+            position: relative;
+            z-index: 1; /* Above background */
+            text-align: center;
+            background-color: var(--background-opacity); /* Dark overlay */
+            padding: 30px 40px;
+            border-radius: 10px;
+            max-width: 400px;
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2); /* Subtle shadow */
+            color: white;
+        }
+
+        /* Title styling */
+        .error-container h1 {
+            font-size: 26px;
+            margin-bottom: 15px;
+            color: var(--primary);
+        }
+
+        /* Message paragraph styling */
+        .error-container p {
+            font-size: 16px;
+            margin-bottom: 20px;
+            color: #e0e0e0;
+        }
+
+        /* Button styling with shine effect */
+        .try-again-btn {
+            position: relative;
+            overflow: hidden;
+            padding: 12px 24px;
+            border: none;
+            border-radius: 5px;
+            font-size: 16px;
+            font-weight: bold;
+            cursor: pointer;
+            color: var(--primary-foreground);
+            background-color: var(--primary);
+            transition: background-color 0.3s, transform 0.3s;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+        }
+
+        .try-again-btn:hover {
+            background-color: #7ec473;
+            transform: scale(1.05);
+        }
+
+        /* Shine effect */
+        .try-again-btn::before {
+            content: "";
+            position: absolute;
+            top: -100%;
+            left: -100%;
+            width: 200%;
+            height: 200%;
+            background: rgba(255, 255, 255, 0.5);
+            transform: rotate(30deg);
+            transition: top 0.5s ease, left 0.5s ease;
+        }
+
+        .try-again-btn:hover::before {
+            top: 100%;
+            left: 100%;
+        }
+    </style>
+</head>
+<body>
+    <div class="error-container">
+        <h1>Image Not Recognized</h1>
+        <p>Sorry, we couldn’t recognize the image. Please try uploading a different one.</p>
+        <script>
+            const plantModeUrl = "{{ url_for('plant_mode') }}";
+        </script>
+        <button class="try-again-btn" onclick="window.location.href=plantModeUrl">Try Again</button>
+    </div>
+</body>
+</html>

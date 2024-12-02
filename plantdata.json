@@ -1,0 +1,1090 @@
+
+[
+    {
+        "plant_name": "Aloe Vera",
+        "image_url": "C:\\Users\\pjagr\\PlantIdentificationApp\\static\\Images\\Aloevera\\mainAloe.png",
+        "properties": [
+            "Soothing",
+            "Anti-inflammatory",
+            "Hydrating"
+        ],
+        "uses": [
+            {
+                "use": "Skin Soothing",
+                "details": "Apply the gel directly to the affected area for soothing relief from burns and irritations."
+            },
+            {
+                "use": "Anti-inflammatory",
+                "details": "Use as a topical application to reduce inflammation and redness."
+            },
+            {
+                "use": "Hydrating",
+                "details": "Apply the gel to dry skin for hydration and moisturizing effects."
+            }
+        ],
+        "problems_solved": [
+            {
+                "problem": "Burns and Skin Irritations",
+                "solution": "Apply aloe vera gel directly to the affected area for soothing relief."
+            },
+            {
+                "problem": "Skin Inflammation",
+                "solution": "Use aloe vera gel as a topical application to reduce inflammation."
+            },
+            {
+                "problem": "Dry Skin",
+                "solution": "Apply aloe vera gel to moisturize and hydrate dry skin."
+            }
+        ]
+    },
+    {
+        "plant_name": "Amla",
+        "image_url": "C:\\Users\\pjagr\\PlantIdentificationApp\\static\\Images\\Amla\\1383.jpg",
+        "properties": [
+            "Rich in Vitamin C",
+            "Antioxidant",
+            "Supports Digestion"
+        ],
+        "uses": [
+            {
+                "use": "Boosts Immunity",
+                "details": "Consume fresh amla fruit or its juice to boost the immune system and increase overall vitality."
+            },
+            {
+                "use": "Skin Health",
+                "details": "Apply amla paste or use products containing amla extract to improve skin health and combat signs of aging."
+            },
+            {
+                "use": "Hair Health",
+                "details": "Use amla oil or powder to strengthen hair, reduce dandruff, and promote healthy hair growth."
+            }
+        ],
+        "problems_solved": [
+            {
+                "problem": "Weak Immune System",
+                "solution": "Consume amla to boost immunity and overall vitality."
+            },
+            {
+                "problem": "Skin Aging",
+                "solution": "Apply amla products to improve skin health and reduce signs of aging."
+            },
+            {
+                "problem": "Hair Weakness and Dandruff",
+                "solution": "Use amla oil or powder to strengthen hair and reduce dandruff."
+            }
+        ]
+    },
+    {
+        "plant_name": "Amruta Balli",
+        "image_url": "C:\\Users\\pjagr\\PlantIdentificationApp\\static\\Images\\Amruta_Balli\\154.jpg",
+        "properties": [
+            "Anti-inflammatory",
+            "Pain Relief",
+            "Supports Respiratory Health"
+        ],
+        "uses": [
+            {
+                "use": "Pain Relief",
+                "details": "Apply the leaves topically or use a paste made from the leaves to alleviate joint and muscle pain."
+            },
+            {
+                "use": "Respiratory Health",
+                "details": "Inhale steam with Amruta Balli leaves or drink a tea made from the leaves to help relieve symptoms of respiratory conditions like asthma and bronchitis."
+            },
+            {
+                "use": "Digestive Health",
+                "details": "Consume Amruta Balli tea or extract to aid digestion and relieve gastrointestinal discomfort."
+            }
+        ],
+        "problems_solved": [
+            {
+                "problem": "Joint and Muscle Pain",
+                "solution": "Apply Amruta Balli paste or leaves topically to relieve pain."
+            },
+            {
+                "problem": "Respiratory Conditions",
+                "solution": "Inhale steam with Amruta Balli leaves or drink Amruta Balli tea to relieve symptoms."
+            },
+            {
+                "problem": "Digestive Discomfort",
+                "solution": "Consume Amruta Balli tea or extract to aid digestion."
+            }
+        ]
+    },
+    {
+        "plant_name": "Arali",
+        "image_url": "C:\\Users\\pjagr\\PlantIdentificationApp\\static\\Images\\Arali\\356.jpg",
+        "properties": [
+            "Anti-inflammatory",
+            "Antibacterial",
+            "Supports Wound Healing"
+        ],
+        "uses": [
+            {
+                "use": "Wound Healing",
+                "details": "Apply a paste made from the Arali leaves directly to wounds or cuts to promote faster healing and reduce the risk of infection."
+            },
+            {
+                "use": "Skin Health",
+                "details": "Use Arali leaf extract or oil to treat skin infections and inflammations. It can also help in reducing acne and improving skin complexion."
+            },
+            {
+                "use": "Pain Relief",
+                "details": "Apply Arali leaf paste or oil to the affected area to relieve joint and muscle pain. It can also be used to soothe headaches when applied to the temples."
+            }
+        ],
+        "problems_solved": [
+            {
+                "problem": "Wounds and Cuts",
+                "solution": "Apply Arali leaf paste to wounds for faster healing."
+            },
+            {
+                "problem": "Skin Infections and Acne",
+                "solution": "Use Arali leaf extract or oil to treat skin infections and improve complexion."
+            },
+            {
+                "problem": "Joint and Muscle Pain",
+                "solution": "Apply Arali paste or oil to relieve pain."
+            }
+        ]
+    },
+    {
+        "plant_name": "Ashoka",
+        "image_url": "C:\\Users\\pjagr\\PlantIdentificationApp\\static\\Images\\Ashoka\\1441.jpg",
+        "properties": [
+            "Anti-inflammatory",
+            "Antioxidant",
+            "Menstrual Health"
+        ],
+        "uses": [
+            {
+                "use": "Menstrual Health",
+                "details": "Use Ashoka bark or extract to regulate menstrual cycles and reduce menstrual discomfort. It is traditionally used to treat menstrual irregularities and heavy bleeding."
+            },
+            {
+                "use": "Anti-inflammatory",
+                "details": "Apply Ashoka bark extract or use it in a poultice to reduce inflammation and swelling in affected areas. It can be used for conditions like arthritis and joint pain."
+            },
+            {
+                "use": "Skin Health",
+                "details": "Use Ashoka leaf extract or paste to treat skin conditions such as acne and eczema. It can also help in reducing blemishes and improving overall skin health."
+            }
+        ],
+        "problems_solved": [
+            {
+                "problem": "Menstrual Irregularities and Discomfort",
+                "solution": "Use Ashoka bark or extract to regulate menstrual cycles and reduce discomfort."
+            },
+            {
+                "problem": "Inflammation and Swelling",
+                "solution": "Apply Ashoka bark extract or poultice to reduce inflammation and swelling."
+            },
+            {
+                "problem": "Skin Conditions",
+                "solution": "Use Ashoka leaf extract or paste to treat acne and eczema."
+            }
+        ]
+    },
+    {
+        "plant_name": "Ashwagandha",
+        "image_url": "C:\\Users\\pjagr\\PlantIdentificationApp\\static\\Images\\Ashwagandha\\121.jpg",
+        "properties": [
+            "Adaptogenic",
+            "Stress Relief",
+            "Boosts Immunity"
+        ],
+        "uses": [
+            {
+                "use": "Stress Relief",
+                "details": "Consume Ashwagandha root powder or capsules to help reduce stress and anxiety. It helps to balance cortisol levels and improve overall mental well-being."
+            },
+            {
+                "use": "Boosts Immunity",
+                "details": "Take Ashwagandha supplements or use it in herbal teas to strengthen the immune system. It helps to enhance the body's natural defense mechanisms."
+            },
+            {
+                "use": "Improves Sleep",
+                "details": "Use Ashwagandha to improve sleep quality and combat insomnia. It is known to help in relaxing the nervous system and promoting restful sleep."
+            }
+        ],
+        "problems_solved": [
+            {
+                "problem": "Stress and Anxiety",
+                "solution": "Consume Ashwagandha to balance cortisol levels and reduce stress."
+            },
+            {
+                "problem": "Weak Immune System",
+                "solution": "Take Ashwagandha to enhance immune system function."
+            },
+            {
+                "problem": "Insomnia and Poor Sleep",
+                "solution": "Use Ashwagandha to improve sleep quality and promote relaxation."
+            }
+        ]
+    },
+    {
+        "plant_name": "Avocado",
+        "image_url": "C:\\Users\\pjagr\\PlantIdentificationApp\\static\\Images\\Avacado\\1009.jpg",
+        "properties": [
+            "Rich in Healthy Fats",
+            "Nutrient-Dense",
+            "Antioxidant Properties"
+        ],
+        "uses": [
+            {
+                "use": "Heart Health",
+                "details": "Incorporate avocados into your diet to support heart health due to their high content of monounsaturated fats, which can help reduce bad cholesterol levels."
+            },
+
+
+            {
+                "use": "Skin Care",
+                "details": "Apply avocado mask or use avocado oil to nourish and hydrate the skin. Its vitamins and healthy fats can help improve skin texture and reduce signs of aging."
+            },
+            {
+                "use": "Digestive Health",
+                "details": "Eat avocados regularly to aid in digestion. Their fiber content promotes healthy digestion and can help prevent constipation."
+            }
+        ],
+        "problems_solved": [
+            {
+                "problem": "Heart Health",
+                "solution": "Incorporate avocados to reduce bad cholesterol and support heart health."
+            },
+            {
+                "problem": "Skin Aging",
+                "solution": "Apply avocado mask or oil to nourish and hydrate skin."
+            },
+            {
+                "problem": "Digestive Issues",
+                "solution": "Eat avocados to aid digestion and prevent constipation."
+            }
+        ]
+    },
+    
+       {
+            "plant_name": "Bamboo",
+            "image_url": "C:\\Users\\pjagr\\PlantIdentificationApp\\static\\Images\\Bamboo\\238.jpg",
+            "properties": [
+                "Strengthens Bones",
+                "Supports Digestive Health",
+                "Anti-inflammatory"
+            ],
+            "uses": [
+                {
+                    "use": "Bone Health",
+                    "details": "Consume bamboo shoots to support bone health due to their high calcium content."
+                },
+                {
+                    "use": "Digestive Health",
+                    "details": "Incorporate bamboo shoots into your diet to aid digestion and promote healthy bowel movements."
+                },
+                {
+                    "use": "Anti-inflammatory",
+                    "details": "Use bamboo extracts in topical applications to reduce inflammation and soothe affected areas."
+                }
+            ],
+            "problems_solved": [
+                {
+                    "problem": "Weak Bones",
+                    "solution": "Consume bamboo shoots to strengthen bones and support bone health."
+                },
+                {
+                    "problem": "Digestive Issues",
+                    "solution": "Eat bamboo shoots to aid digestion and promote healthy digestion."
+                },
+                {
+                    "problem": "Inflammation",
+                    "solution": "Apply bamboo extracts to reduce inflammation and soothe affected areas."
+                }
+            ]
+        },
+        {
+            "plant_name": "Basale",
+            "image_url": "C:\\Users\\pjagr\\PlantIdentificationApp\\static\\Images\\Basale\\811.jpg",
+            "properties": [
+                "Anti-inflammatory",
+                "Supports Immune Health",
+                "Digestive Aid"
+            ],
+            "uses": [
+                {
+                    "use": "Immune Support",
+                    "details": "Consume basale leaves or extracts to boost the immune system and enhance overall health."
+                },
+                {
+                    "use": "Digestive Health",
+                    "details": "Use basale leaves in teas or as a digestive aid to improve gut health and relieve gastrointestinal discomfort."
+                },
+                {
+                    "use": "Anti-inflammatory",
+                    "details": "Apply basale leaf paste topically to reduce inflammation and ease pain."
+                }
+            ],
+            "problems_solved": [
+                {
+                    "problem": "Weak Immune System",
+                    "solution": "Consume basale leaves or extracts to boost immune health."
+                },
+                {
+                    "problem": "Digestive Discomfort",
+                    "solution": "Use basale leaves in teas to aid digestion and relieve gastrointestinal discomfort."
+                },
+                {
+                    "problem": "Inflammation",
+                    "solution": "Apply basale leaf paste to reduce inflammation and ease pain."
+                }
+            ]
+        },
+        {
+            "plant_name": "Betel",
+            "image_url": "C:\\Users\\pjagr\\PlantIdentificationApp\\static\\Images\\Betel\\858.jpg",
+            "properties": [
+                "Digestive Health",
+                "Anti-inflammatory",
+                "Oral Health"
+            ],
+            "uses": [
+                {
+                    "use": "Digestive Aid",
+                    "details": "Chew betel leaves to stimulate digestion and alleviate gastrointestinal issues."
+                },
+                {
+                    "use": "Oral Health",
+                    "details": "Use betel leaves to maintain oral hygiene and prevent bad breath."
+                },
+                {
+                    "use": "Anti-inflammatory",
+                    "details": "Apply betel leaf paste topically to reduce inflammation and ease discomfort."
+                }
+            ],
+            "problems_solved": [
+                {
+                    "problem": "Digestive Issues",
+                    "solution": "Chew betel leaves to aid digestion and relieve gastrointestinal discomfort."
+                },
+                {
+                    "problem": "Bad Breath",
+                    "solution": "Use betel leaves to maintain oral health and prevent bad breath."
+                },
+                {
+                    "problem": "Inflammation",
+                    "solution": "Apply betel leaf paste to reduce inflammation and ease discomfort."
+                }
+            ]
+        },
+        {
+            "plant_name": "Betel Nut",
+            "image_url": "C:\\Users\\pjagr\\PlantIdentificationApp\\static\\Images\\Betel_Nut\\1684.jpg",
+            "properties": [
+                "Stimulating",
+                "Digestive Aid",
+                "Antioxidant"
+            ],
+            "uses": [
+                {
+                    "use": "Digestive Health",
+                    "details": "Consume betel nut to aid digestion and stimulate appetite."
+                },
+                {
+                    "use": "Energy Boost",
+                    "details": "Chewing betel nut can provide a stimulating effect and boost energy levels."
+                },
+                {
+                    "use": "Oral Health",
+                    "details": "Use betel nut to maintain oral hygiene and prevent dental issues."
+                }
+            ],
+            "problems_solved": [
+                {
+                    "problem": "Digestive Issues",
+                    "solution": "Consume betel nut to aid digestion and stimulate appetite."
+                },
+                {
+                    "problem": "Low Energy",
+                    "solution": "Chew betel nut for a stimulating effect and energy boost."
+                },
+                {
+                    "problem": "Oral Health",
+                    "solution": "Use betel nut to maintain oral hygiene and prevent dental issues."
+                }
+            ]
+        },
+        {
+            "plant_name": "Brahmi",
+            "image_url": "C:\\Users\\pjagr\\PlantIdentificationApp\\static\\Images\\Brahmi\\915.jpg",
+            "properties": [
+                "Cognitive Enhancement",
+                "Stress Relief",
+                "Anti-inflammatory"
+            ],
+            "uses": [
+                {
+                    "use": "Cognitive Function",
+                    "details": "Consume Brahmi supplements or tea to enhance memory and cognitive function."
+                },
+                {
+                    "use": "Stress Relief",
+                    "details": "Use Brahmi to reduce stress and anxiety levels, promoting relaxation and mental well-being."
+                },
+                {
+                    "use": "Anti-inflammatory",
+                    "details": "Apply Brahmi paste topically to reduce inflammation and ease pain."
+                }
+            ],
+            "problems_solved": [
+                {
+                    "problem": "Memory Issues",
+                    "solution": "Consume Brahmi to enhance memory and cognitive function."
+                },
+                {
+                    "problem": "Stress and Anxiety",
+                    "solution": "Use Brahmi to reduce stress and promote relaxation."
+                },
+                {
+                    "problem": "Inflammation",
+                    "solution": "Apply Brahmi paste to reduce inflammation and ease pain."
+                }
+            ]
+        },
+        {
+            "plant_name": "Castor",
+            "image_url": "C:\\Users\\pjagr\\PlantIdentificationApp\\static\\Images\\Castor\\371.jpg",
+            "properties": [
+                "Laxative",
+                "Anti-inflammatory",
+                "Skin Health"
+            ],
+            "uses": [
+                {
+                    "use": "Laxative",
+                    "details": "Castor oil is used as a natural laxative to relieve constipation. It helps in stimulating bowel movements."
+                },
+                {
+                    "use": "Anti-inflammatory",
+                    "details": "Apply castor oil topically to reduce inflammation and ease joint pain."
+                },
+                {
+                    "use": "Skin Health",
+                    "details": "Use castor oil to moisturize and nourish the skin. It helps in treating dry skin and reducing acne."
+                }
+            ],
+            "problems_solved": [
+                {
+                    "problem": "Constipation",
+                    "solution": "Use castor oil as a natural laxative to relieve constipation."
+                },
+                {
+                    "problem": "Inflammation",
+                    "solution": "Apply castor oil to reduce inflammation and ease joint pain."
+                },
+                {
+                    "problem": "Dry Skin",
+                    "solution": "Use castor oil to moisturize and treat dry skin."
+                }
+            ]
+        },
+        {
+            "plant_name": "Curry Leaf",
+            "image_url": "C:\\Users\\pjagr\\PlantIdentificationApp\\static\\Images\\Curry_Leaf\\3876.jpg",
+            "properties": [
+                "Rich in Nutrients",
+                "Digestive Health",
+                "Anti-inflammatory"
+            ],
+            "uses": [
+                {
+                    "use": "Digestive Aid",
+                    "details": "Incorporate curry leaves into your diet to aid digestion and improve gut health."
+                },
+                {
+                    "use": "Hair Health",
+                    "details": "Apply curry leaf paste or use curry leaf oil to strengthen hair and reduce dandruff."
+                },
+                {
+                    "use": "Anti-inflammatory",
+                    "details": "Use curry leaves in topical applications or teas to reduce inflammation and support overall health."
+                }
+            ],
+            "problems_solved": [
+                {
+                    "problem": "Digestive Issues",
+                    "solution": "Use curry leaves to aid digestion and improve gut health."
+                },
+                {
+                    "problem": "Hair Problems",
+                    "solution": "Apply curry leaf paste or oil to strengthen hair and reduce dandruff."
+                },
+                {
+                    "problem": "Inflammation",
+                    "solution": "Use curry leaves to reduce inflammation and support health."
+                }
+            ]
+        },
+        {
+            "plant_name": "Doddapatre",
+            "image_url": "C:\\Users\\pjagr\\PlantIdentificationApp\\static\\Images\\Doddapatre\\461.jpg",
+            "properties": [
+                "Anti-inflammatory",
+                "Supports Respiratory Health",
+                "Digestive Health"
+            ],
+            "uses": [
+                {
+                    "use": "Respiratory Health",
+                    "details": "Inhale steam from Doddapatre leaves or use them in teas to help relieve symptoms of respiratory conditions like asthma and coughs."
+                },
+                {
+                    "use": "Digestive Health",
+                    "details": "Consume Doddapatre tea or extract to support digestion and relieve gastrointestinal issues."
+                },
+                {
+                    "use": "Anti-inflammatory",
+                    "details": "Apply Doddapatre leaf paste topically to reduce inflammation and ease pain."
+                }
+            ],
+            "problems_solved": [
+                {
+                    "problem": "Respiratory Issues",
+                    "solution": "Use Doddapatre in steam inhalation or teas to relieve respiratory symptoms."
+                },
+                {
+                    "problem": "Digestive Discomfort",
+                    "solution": "Consume Doddapatre tea to aid digestion and relieve gastrointestinal issues."
+                },
+                {
+                    "problem": "Inflammation",
+                    "solution": "Apply Doddapatre paste to reduce inflammation and ease pain."
+                }
+            ]
+        },
+        {
+            "plant_name": "Ekka",
+            "image_url": "C:\\Users\\pjagr\\PlantIdentificationApp\\static\\Images\\Ekka\\686.jpg",
+            "properties": [
+                "Anti-inflammatory",
+                "Digestive Aid",
+                "Supports Immune Health"
+            ],
+            "uses": [
+                {
+                    "use": "Immune Support",
+                    "details": "Consume Ekka leaves or extracts to boost the immune system and enhance overall health."
+                },
+                {
+                    "use": "Digestive Health",
+                    "details": "Use Ekka leaves in teas or as a digestive aid to improve gut health and relieve gastrointestinal discomfort."
+                },
+                {
+                    "use": "Anti-inflammatory",
+                    "details": "Apply Ekka leaf paste topically to reduce inflammation and ease pain."
+                }
+            ],
+            "problems_solved": [
+                {
+                    "problem": "Weak Immune System",
+                    "solution": "Consume Ekka to boost the immune system and enhance overall health."
+                },
+                {
+                    "problem": "Digestive Discomfort",
+                    "solution": "Use Ekka in teas to aid digestion and relieve gastrointestinal discomfort."
+                },
+                {
+                    "problem": "Inflammation",
+                    "solution": "Apply Ekka paste to reduce inflammation and ease pain."
+                }
+            ]
+        },
+        {
+            "plant_name": "Ganike",
+            "image_url": "C:\\Users\\pjagr\\PlantIdentificationApp\\static\\Images\\Ganike\\286.jpg",
+            "properties": [
+                "Anti-inflammatory",
+                "Digestive Health",
+                "Pain Relief"
+            ],
+            "uses": [
+                {
+                    "use": "Digestive Aid",
+                    "details": "Use Ganike leaves or extracts to support digestion and relieve gastrointestinal discomfort."
+                },
+                {
+                    "use": "Pain Relief",
+                    "details": "Apply Ganike leaf paste topically to alleviate joint and muscle pain."
+                },
+                {
+                    "use": "Anti-inflammatory",
+                    "details": "Use Ganike in topical applications or teas to reduce inflammation and ease swelling."
+                }
+            ],
+            "problems_solved": [
+                {
+                    "problem": "Digestive Issues",
+                    "solution": "Use Ganike to aid digestion and relieve gastrointestinal discomfort."
+                },
+                {
+                    "problem": "Pain",
+                    "solution": "Apply Ganike paste to reduce joint and muscle pain."
+                },
+                {
+                    "problem": "Inflammation",
+                    "solution": "Use Ganike to reduce inflammation and ease swelling."
+                }
+            ]
+        },
+        {
+            "plant_name": "Guava",
+            "image_url": "C:\\Users\\pjagr\\PlantIdentificationApp\\static\\Images\\Gauva\\2730.jpg",
+            "properties": [
+                "Rich in Vitamin C",
+                "Antioxidant",
+                "Supports Immune Health"
+            ],
+            "uses": [
+                {
+                    "use": "Boosts Immunity",
+                    "details": "Consume guava fruit or its juice to boost the immune system due to its high vitamin C content."
+                },
+                {
+                    "use": "Digestive Health",
+                    "details": "Eat guava or drink its juice to aid digestion and relieve gastrointestinal issues."
+                },
+                {
+                    "use": "Skin Health",
+                    "details": "Apply guava leaf extract or paste to the skin to improve complexion and treat acne."
+                }
+            ],
+            "problems_solved": [
+                {
+                    "problem": "Weak Immunity",
+                    "solution": "Consume guava to boost the immune system with its vitamin C content."
+                },
+                {
+                    "problem": "Digestive Issues",
+                    "solution": "Eat guava or drink its juice to aid digestion and relieve gastrointestinal discomfort."
+                },
+                {
+                    "problem": "Skin Problems",
+                    "solution": "Apply guava leaf extract to improve skin health and treat acne."
+                }
+            ]
+        },
+        {
+            "plant_name": "Geranium",
+            "image_url": "C:\\Users\\pjagr\\PlantIdentificationApp\\static\\Images\\Geranium\\6.jpg",
+            "properties": [
+                "Antibacterial",
+                "Anti-inflammatory",
+                "Supports Skin Health"
+            ],
+            "uses": [
+                {
+                    "use": "Skin Care",
+                    "details": "Use geranium essential oil to improve skin tone and reduce acne. It can also help in healing wounds."
+                },
+                {
+                    "use": "Anti-inflammatory",
+                    "details": "Apply geranium oil to reduce inflammation and soothe irritated skin."
+                },
+                {
+                    "use": "Antibacterial",
+                    "details": "Use geranium oil in topical applications to combat bacterial infections and promote healing."
+                }
+            ],
+            "problems_solved": [
+                {
+                    "problem": "Skin Issues",
+                    "solution": "Apply geranium oil to improve skin tone and reduce acne."
+                },
+                {
+                    "problem": "Inflammation",
+                    "solution": "Use geranium oil to reduce inflammation and soothe irritated skin."
+                },
+                {
+                    "problem": "Bacterial Infections",
+                    "solution": "Apply geranium oil to combat bacterial infections and promote healing."
+                }
+            ]
+        },
+        {
+            "plant_name": "Henna",
+            "image_url": "C:\\Users\\pjagr\\PlantIdentificationApp\\static\\Images\\Henna\\4704.jpg",
+            "properties": [
+                "Hair Conditioning",
+                "Anti-inflammatory",
+                "Antimicrobial"
+            ],
+            "uses": [
+                {
+                    "use": "Hair Conditioning",
+                    "details": "Apply henna paste to hair to condition and strengthen it, reduce dandruff, and enhance color."
+                },
+                {
+                    "use": "Skin Health",
+                    "details": "Use henna paste as a natural dye and to treat skin conditions like eczema and fungal infections."
+                },
+                {
+                    "use": "Anti-inflammatory",
+                    "details": "Apply henna paste to reduce inflammation and soothe irritated skin."
+                }
+            ],
+            "problems_solved": [
+                {
+                    "problem": "Hair Problems",
+                    "solution": "Use henna paste to condition hair, reduce dandruff, and enhance color."
+                },
+                {
+                    "problem": "Skin Conditions",
+                    "solution": "Apply henna paste to treat skin conditions like eczema and fungal infections."
+                },
+                {
+                    "problem": "Inflammation",
+                    "solution": "Use henna paste to reduce inflammation and soothe irritated skin."
+                }
+            ]
+        },
+        {
+            "plant_name": "Hibiscus",
+            "image_url": "C:\\Users\\pjagr\\PlantIdentificationApp\\static\\Images\\Hibiscus\\19.jpg",
+            "properties": [
+                "Antioxidant",
+                "Supports Hair Health",
+                "Skin Nourishment"
+            ],
+            "uses": [
+                {
+                    "use": "Hair Health",
+                    "details": "Use hibiscus flowers or oil to promote hair growth, reduce dandruff, and improve overall hair health."
+                },
+                {
+                    "use": "Skin Care",
+                    "details": "Apply hibiscus extract or use it in face masks to nourish the skin, improve elasticity, and reduce signs of aging."
+                },
+                {
+                    "use": "Antioxidant",
+                    "details": "Drink hibiscus tea to benefit from its antioxidant properties, which help combat oxidative stress and improve overall health."
+                }
+            ],
+            "problems_solved": [
+                {
+                    "problem": "Hair Health",
+                    "solution": "Use hibiscus to promote hair growth, reduce dandruff, and improve hair health."
+                },
+                {
+                    "problem": "Skin Issues",
+                    "solution": "Apply hibiscus extract to nourish the skin and reduce signs of aging."
+                },
+                {
+                    "problem": "Oxidative Stress",
+                    "solution": "Drink hibiscus tea to benefit from its antioxidant properties."
+                }
+            ]
+        },
+        {
+            "plant_name": "Honge",
+            "image_url": "C:\\Users\\pjagr\\PlantIdentificationApp\\static\\Images\\Honge\\750.jpg",
+            "properties": [
+                "Anti-inflammatory",
+                "Supports Liver Health",
+                "Digestive Aid"
+            ],
+            "uses": [
+                {
+                    "use": "Liver Health",
+                    "details": "Consume Honge oil or extracts to support liver function and detoxify the body."
+                },
+                {
+                    "use": "Digestive Health",
+                    "details": "Use Honge in cooking or as a supplement to aid digestion and relieve gastrointestinal issues."
+                },
+                {
+                    "use": "Anti-inflammatory",
+                    "details": "Apply Honge oil or use it in topical applications to reduce inflammation and ease pain."
+                }
+            ],
+            "problems_solved": [
+                {
+                    "problem": "Liver Health",
+                    "solution": "Use Honge to support liver function and detoxify the body."
+                },
+                {
+                    "problem": "Digestive Issues",
+                    "solution": "Incorporate Honge into your diet to aid digestion and relieve gastrointestinal discomfort."
+                },
+                {
+                    "problem": "Inflammation",
+                    "solution": "Apply Honge oil to reduce inflammation and ease pain."
+                }
+            ]
+        },
+        {
+            "plant_name": "Insulin",
+            "image_url": "C:\\Users\\pjagr\\PlantIdentificationApp\\static\\Images\\Insulin\\501.jpg",
+            "properties": [
+                "Regulates Blood Sugar",
+                "Diabetes Management",
+                "Metabolic Health"
+            ],
+            "uses": [
+                {
+                    "use": "Diabetes Management",
+                    "details": "Use insulin as prescribed to regulate blood sugar levels and manage diabetes effectively."
+                },
+                {
+                    "use": "Metabolic Health",
+                    "details": "Monitor insulin levels to maintain overall metabolic health and prevent complications related to diabetes."
+                },
+                {
+                    "use": "Blood Sugar Regulation",
+                    "details": "Insulin helps in controlling blood sugar levels in individuals with diabetes, improving their quality of life."
+                }
+            ],
+            "problems_solved": [
+                {
+                    "problem": "High Blood Sugar",
+                    "solution": "Use insulin to regulate blood sugar levels and manage diabetes."
+                },
+                {
+                    "problem": "Diabetes Complications",
+                    "solution": "Insulin helps in preventing and managing complications related to diabetes."
+                },
+                {
+                    "problem": "Metabolic Issues",
+                    "solution": "Monitor and use insulin to maintain metabolic health."
+                }
+            ]
+        },
+        {
+            "plant_name": "Jasmine",
+            "image_url": "C:\\Users\\pjagr\\PlantIdentificationApp\\static\\Images\\Jasmine\\3379.jpg",
+            "properties": [
+                "Aromatic",
+                "Anti-anxiety",
+                "Skin Health"
+            ],
+            "uses": [
+                {
+                    "use": "Aromatherapy",
+                    "details": "Use jasmine essential oil in aromatherapy to relieve stress and promote relaxation."
+                },
+                {
+                    "use": "Skin Care",
+                    "details": "Apply jasmine oil or extract to improve skin texture, reduce blemishes, and provide a natural glow."
+                },
+                {
+                    "use": "Anti-anxiety",
+                    "details": "Inhale jasmine scent or use it in massage oils to help reduce anxiety and improve mood."
+                }
+            ],
+            "problems_solved": [
+                {
+                    "problem": "Stress",
+                    "solution": "Use jasmine in aromatherapy to relieve stress and promote relaxation."
+                },
+                {
+                    "problem": "Skin Blemishes",
+                    "solution": "Apply jasmine oil to improve skin texture and reduce blemishes."
+                },
+                {
+                    "problem": "Anxiety",
+                    "solution": "Inhale jasmine scent to help reduce anxiety and improve mood."
+                }
+            ]
+        },
+        {
+            "plant_name": "Lemon",
+            "image_url": "C:\\Users\\pjagr\\PlantIdentificationApp\\static\\Images\\Lemon\\5173.jpg",
+            "properties": [
+                "Rich in Vitamin C",
+                "Antioxidant",
+                "Digestive Health"
+            ],
+            "uses": [
+                {
+                    "use": "Immune Boost",
+                    "details": "Consume lemon juice or lemon water to boost the immune system with its high vitamin C content."
+                },
+                {
+                    "use": "Digestive Health",
+                    "details": "Drink lemon water to aid digestion and relieve gastrointestinal discomfort."
+                },
+                {
+                    "use": "Skin Health",
+                    "details": "Apply lemon juice to the skin to reduce blemishes and improve skin tone."
+                }
+            ],
+            "problems_solved": [
+                {
+                    "problem": "Weak Immunity",
+                    "solution": "Consume lemon to boost immunity with its vitamin C content."
+                },
+                {
+                    "problem": "Digestive Issues",
+                    "solution": "Drink lemon water to aid digestion and relieve gastrointestinal discomfort."
+                },
+                {
+                    "problem": "Skin Blemishes",
+                    "solution": "Apply lemon juice to improve skin tone and reduce blemishes."
+                }
+            ]
+        },
+        {
+            "plant_name": "Lemongrass",
+            "image_url": "C:\\Users\\pjagr\\PlantIdentificationApp\\static\\Images\\Lemon_grass\\5503.jpg",
+            "properties": [
+                "Digestive Health",
+                "Antioxidant",
+                "Anti-inflammatory"
+            ],
+            "uses": [
+                {
+                    "use": "Digestive Aid",
+                    "details": "Use lemongrass in teas or cooking to support digestion and alleviate digestive issues."
+                },
+                {
+                    "use": "Anti-inflammatory",
+                    "details": "Apply lemongrass oil or use it in a poultice to reduce inflammation and soothe pain."
+                },
+                {
+                    "use": "Antioxidant",
+                    "details": "Incorporate lemongrass into your diet for its antioxidant properties to combat oxidative stress."
+                }
+            ],
+            "problems_solved": [
+                {
+                    "problem": "Digestive Issues",
+                    "solution": "Use lemongrass to aid digestion and relieve gastrointestinal discomfort."
+                },
+                {
+                    "problem": "Inflammation",
+                    "solution": "Apply lemongrass oil to reduce inflammation and soothe pain."
+                },
+                {
+                    "problem": "Oxidative Stress",
+                    "solution": "Incorporate lemongrass into your diet for its antioxidant benefits."
+                }
+            ]
+        },
+        {
+            "plant_name": "Mango",
+            "image_url": "C:\\Users\\pjagr\\PlantIdentificationApp\\static\\Images\\Mango\\5069.jpg",
+            "properties": [
+                "Rich in Vitamins A and C",
+                "Antioxidant",
+                "Supports Digestive Health"
+            ],
+            "uses": [
+                {
+                    "use": "Boosts Immunity",
+                    "details": "Consume mangoes to benefit from their high vitamin A and C content, which supports the immune system."
+                },
+                {
+                    "use": "Digestive Health",
+                    "details": "Eat mangoes or drink mango juice to aid digestion and relieve constipation due to their high fiber content."
+                },
+                {
+                    "use": "Skin Health",
+                    "details": "Apply mango pulp or use mango extract to nourish and hydrate the skin, reducing signs of aging."
+                }
+            ],
+            "problems_solved": [
+                {
+                    "problem": "Weak Immunity",
+                    "solution": "Consume mangoes to boost the immune system with vitamins A and C."
+                },
+                {
+                    "problem": "Digestive Issues",
+                    "solution": "Eat mangoes to aid digestion and relieve constipation."
+                },
+                {
+                    "problem": "Skin Aging",
+                    "solution": "Apply mango pulp to nourish and hydrate the skin."
+                }
+            ]
+        },
+        {
+            "plant_name": "Mint",
+            "image_url": "C:\\Users\\pjagr\\PlantIdentificationApp\\static\\Images\\Mint\\317.jpg",
+            "properties": [
+                "Digestive Health",
+                "Anti-inflammatory",
+                "Aromatic"
+            ],
+            "uses": [
+                {
+                    "use": "Digestive Aid",
+                    "details": "Consume mint leaves or drink mint tea to aid digestion and alleviate symptoms of indigestion."
+                },
+                {
+                    "use": "Anti-inflammatory",
+                    "details": "Apply mint oil or use it in a poultice to reduce inflammation and relieve pain."
+                },
+                {
+                    "use": "Aromatherapy",
+                    "details": "Use mint essential oil in aromatherapy to refresh the mind and improve mental clarity."
+                }
+            ],
+            "problems_solved": [
+                {
+                    "problem": "Digestive Issues",
+                    "solution": "Use mint to aid digestion and relieve symptoms of indigestion."
+                },
+                {
+                    "problem": "Inflammation",
+                    "solution": "Apply mint oil to reduce inflammation and relieve pain."
+                },
+                {
+                    "problem": "Mental Fatigue",
+                    "solution": "Use mint oil in aromatherapy to refresh the mind and improve mental clarity."
+                }
+            ]
+        },
+        {
+            "plant_name": "Neem",
+            "image_url": "C:\\Users\\pjagr\\PlantIdentificationApp\\static\\Images\\Neem\\1801.jpg",
+            "properties": [
+                "Antibacterial",
+                "Anti-inflammatory",
+                "Supports Skin Health"
+            ],
+            "uses": [
+                {
+                    "use": "Skin Health",
+                    "details": "Apply neem paste or use neem oil to treat skin conditions such as acne, eczema, and psoriasis."
+                },
+                {
+                    "use": "Anti-inflammatory",
+                    "details": "Use neem leaves or oil to reduce inflammation and relieve pain."
+                },
+                {
+                    "use": "Antibacterial",
+                    "details": "Apply neem oil or use neem-based products to combat bacterial infections and promote overall skin health."
+                }
+            ],
+            "problems_solved": [
+                {
+                    "problem": "Skin Conditions",
+                    "solution": "Use neem paste or oil to treat acne, eczema, and psoriasis."
+                },
+                {
+                    "problem": "Inflammation",
+                    "solution": "Use neem to reduce inflammation and relieve pain."
+                },
+                {
+                    "problem": "Bacterial Infections",
+                    "solution": "Apply neem oil to combat bacterial infections and improve skin health."
+                }
+            ]
+        }
+
+
+    ]
+    
+
+
+
+
+
+
+
+

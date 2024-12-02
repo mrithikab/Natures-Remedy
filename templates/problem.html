@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Problem Mode - Search Plants</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles1.css') }}">
+</head>
+<body>
+    <!-- Header Section -->
+    <div class="header">
+        <div class="logo" onclick="window.location.href='{{ url_for('home') }}'">Nature's Remedy</div>
+        <div class="nav-links">
+            <a href="{{ url_for('home') }}" data-hover="Home">Home</a>
+            <a href="{{ url_for('plant_mode') }}" data-hover="Upload and Find">Plant Mode</a>
+            <a href="{{ url_for('problemmode') }}" data-hover="Write the Problem and Find">Problem Mode</a>
+        </div>
+    </div> 
+    
+    <!-- Background Image -->
+    <div class="background"></div>
+    
+    <div class="container">
+        <div class="card">
+            <h1>Find Plants by Health Problem</h1>
+            <form action="{{ url_for('problemmode') }}" method="post">
+                
+                <input type="text" id="problem" name="problem" required placeholder="Enter your problem (eg. Dry Skin, Sore Throat)">
+                <button type="submit">Search</button>
+            </form>
+
+            <!-- Display results if available -->
+            {% if results %}
+                <section class="results-section">
+                    <ul>
+                        {% for plant in results %}
+                            <li>
+                                <h2>{{ plant.plant_name }}</h2>
+                                <ul>
+                                    {% for use in plant.matching_uses %}
+                                        <li>
+                                            <strong>{{ use.use }}:</strong> {{ use.details }}
+                                        </li>
+                                    {% endfor %}
+                                </ul>
+                            </li>
+                        {% endfor %}
+                    </ul>
+                </section>
+            {% elif query %}
+                <p>No plants found that solve "{{ query }}".</p>
+            {% endif %}
+        </div>
+    </div>
+</body>
+</html>
